@@ -1,2 +1,2 @@
 # farida
-Spoj famous dp code for begineers
+Spoj famous dp code for beginners
